@@ -1,7 +1,2 @@
-#include <stdio.h>
+last edit after adding file to folder
 
-int main(){
-	printf("Hello World!\n");
-	printf("Druga Linia\n");
-	return 0;
-}
